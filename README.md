@@ -23,8 +23,7 @@ E --> F{Is Ready?}
 F -- No --> B
 F -- Yes --> G[Deploy]
 G --> H[Monitor]
-H --> F
-H --> E
+H --> B
 ```
 
 ## 🔗 Links
