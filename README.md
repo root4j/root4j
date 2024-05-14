@@ -2,15 +2,7 @@
 I'm a **Systems Engineer** by profession, passionate about software development. I'm currently a **Cloud Solutions Engineer** at Oracle and my specialty is **DevOps** scenarios.
 
 ## 🛠 Skills
-- Java
-- .NET
-- Go
-- Angular
-- Flutter
-- SQL
-- T-SQL
-- PL/SQL
-- DevOps
+[![My Skills](https://skillicons.dev/icons?i=java,dotnet,go,angular,flutter,sqlite,docker,kubernetes&theme=dark)](https://www.linkedin.com/in/root4j/)
 
 ## My Code Language
 ### Java
