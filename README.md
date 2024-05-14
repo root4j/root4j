@@ -4,7 +4,7 @@ I'm a **Systems Engineer** by profession, passionate about software development.
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=java,dotnet,go,angular,flutter,sqlite,docker,kubernetes&theme=dark)](https://www.linkedin.com/in/root4j/)
 
-## My Code Language
+## 🖥️ My Code Language
 ### Java
 ```java
 package root4j;
@@ -36,7 +36,7 @@ func main() {
 }
 ```
 
-## DevOps Flow
+## ☁️ DevOps Flow
 ```mermaid
 graph LR
 A((Start)) --> B[Plan]
